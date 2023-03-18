@@ -8,8 +8,5 @@ Hello there this is a new page.
 
 This will have a bunch of stuff.
 
-I added another bit
-
-Nea is cool.
 
 
