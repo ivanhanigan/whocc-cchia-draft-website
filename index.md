@@ -1,4 +1,4 @@
---- 
+---
 name: whocc-cchia-draft-website
 layout: default
 title: WHO CC CCHIA draft website
@@ -6,7 +6,7 @@ title: WHO CC CCHIA draft website
 
 # Welcome to our Centre
 
-Welcome to the WHO Collaborating Centre for Health Impact Assessment which is located at Curtin University in Perth, Western Australia. Our first designation as a Collaborating Centre was awarded in 2003 by the WHO in recognition of our pioneering work in the area of Health Impact Assessment (HIA). The Centre was successfully redesignated for its 5th four-year period in 2019.
+This is a crucial update suggested here: Welcome to the WHO Collaborating Centre for Health Impact Assessment which is located at Curtin University in Perth, Western Australia. Our first designation as a Collaborating Centre was awarded in 2003 by the WHO in recognition of our pioneering work in the area of Health Impact Assessment (HIA). The Centre was successfully redesignated for its 5th four-year period in 2019.
 
 ![pic-viet](/images/pic-viet-620x417_v2.png)
 
