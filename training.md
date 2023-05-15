@@ -12,8 +12,7 @@ An important component of improving this understanding is to build capacity at t
 
 Capacity development has been defined as:
 
-    “…the process by which individuals, organisations and societies strengthen their ability to address environmental issues, manage natural resource issues, and mainstream environmental sustainability into development policies, plans and decisions.”
-
+> “…the process by which individuals, organisations and societies strengthen their ability to address environmental issues, manage natural resource issues, and mainstream environmental sustainability into development policies, plans and decisions.”
 #### United Nations Development Program
 
 Centre staff are involved in teaching within the School of Public Health.  The following programs in environmental health are currently available:
