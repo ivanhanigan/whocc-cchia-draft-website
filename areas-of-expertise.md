@@ -25,6 +25,7 @@ Within Curtin University, expertise from staff may involve the following discipl
 - Public Health
 - Social Sciences including stakeholder engagement and communication
 
+### Collaborator organisations
 
 Other agencies, institutions and research facilities that can provide services include:
 
@@ -35,3 +36,8 @@ Other agencies, institutions and research facilities that can provide services i
 - Country Agencies
 - International Organisations
 
+### Examples
+
+The following are examples of other HIA projects carried out by the Centre:
+
+[Old wwbsite](http://ehia.curtin.edu.au/our-work/areas-expertise/)
