@@ -4,4 +4,4 @@ layout: default
 title: Our publications
 ---
 
-TBA
+See [this link](http://ehia.curtin.edu.au/about/publications/)
