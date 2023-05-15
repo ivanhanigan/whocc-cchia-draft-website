@@ -41,3 +41,7 @@ Other agencies, institutions and research facilities that can provide services i
 The following are examples of other HIA projects carried out by the Centre:
 
 [Old wwbsite](http://ehia.curtin.edu.au/our-work/areas-expertise/)
+
+### Contact us
+
+[Get in touch](contacts.html) to find out more about our consultancy and advisory services.
