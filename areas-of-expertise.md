@@ -42,6 +42,10 @@ The following are examples of other HIA projects carried out by the Centre:
 
 [Old wwbsite](http://ehia.curtin.edu.au/our-work/areas-expertise/)
 
+### More about HIA
+
+See [this link](http://ehia.curtin.edu.au/about/about-ehia-hia/)
+
 ### Contact us
 
 [Get in touch](contacts.html) to find out more about our consultancy and advisory services.
