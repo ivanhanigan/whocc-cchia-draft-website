@@ -26,7 +26,7 @@ Centre staff are involved in teaching within the School of Public Health.  The f
 
 Education and training may involve training programs in Australia or distance learning.  The aim of these is to produce qualified and skilled professionals able to enhance the development and application of EHIA/HIA within their region.
 
-Short courses and fellowship programs in specific areas of EHIA/HIA are also available.
+Short courses and [fellowship programs](http://ehia.curtin.edu.au/about/visiting-fellows/) in specific areas of EHIA/HIA are also available.
 
 ### Contact us
 
