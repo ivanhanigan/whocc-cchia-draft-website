@@ -32,7 +32,6 @@ Other agencies, institutions and research facilities that can provide services i
 - Government departments
 - Private sector consultants
 - Industries
+- Country Agencies
+- International Organisations
 
-Country Agencies
-International Organisations
-The following are examples of other HIA projects carried out by the Centre:
