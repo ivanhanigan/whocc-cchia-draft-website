@@ -4,7 +4,10 @@ layout: default
 title: Our research
 ---
 
-### Collaborative research
+1. [Collaborative research](#head-collres)
+1. [Climate change and health](#head-ccres)
+
+###  <a name="head-collres"></a>Collaborative research
 
 The Centre provides a focus for research and development, education and consulting activities in the Asia Pacific region for all aspects of EHIA/HIA.
 The Centre aims to:
@@ -18,7 +21,7 @@ The Centre plans, conducts, and evaluates EHIA/HIA research, communicating resul
 
 The Centre can provide support for the development of methods and approaches for research into aspects of EHIA/HIA at regional institutions.
 
-### Climate change and health
+###  <a name="head-ccres"></a>Climate change and health
 
 The current trends in climatic change will impact human populations and have the potential to become a significant threat to public health. Individuals and communities will need to adapt to  and mitigate these changed environmental circumstances to avoid adverse consequences.
 
