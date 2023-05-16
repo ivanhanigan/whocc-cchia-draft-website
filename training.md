@@ -10,6 +10,8 @@ A better understanding of the links between environmental quality and human heal
 
 An important component of improving this understanding is to build capacity at the local and regional level.
 
+![pic-training](images/news-course-dev-336x336.png)
+
 Capacity development has been defined as:
 
 > “…the process by which individuals, organisations and societies strengthen their ability to address environmental issues, manage natural resource issues, and mainstream environmental sustainability into development policies, plans and decisions.”
