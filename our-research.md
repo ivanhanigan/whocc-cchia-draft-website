@@ -9,7 +9,8 @@ title: Our research
 
 ###  <a name="head-collres"></a>Collaborative research
 
-The Centre provides a focus for research and development, education and consulting activities in the Asia Pacific region for all aspects of EHIA/HIA.
+The Centre provides a focus for research and development, education and consulting activities in the Asia Pacific region for all aspects of Climate Change and HIA.
+
 The Centre aims to:
 
 - increase the availability of training and education packages on topics relevant to EHIA/HIA
