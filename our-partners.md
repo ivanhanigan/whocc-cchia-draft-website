@@ -6,7 +6,7 @@ title: Our partners
 
 ### About WHO and EHIA
 
-WHOCC-EHIA has been designated a World Health Organisation (WHO) Collaborating Centre as a result of previous work and the provision of advisory and consultative services in environmental health impact assessment and related activities. This work has now extended over 20 years.
+WHOCC-CC&HIA has been designated a World Health Organisation (WHO) Collaborating Centre as a result of previous work and the provision of advisory and consultative services in environmental health impact assessment and related activities. This work has now extended over 20 years.
 
 ### Who is involved
 
