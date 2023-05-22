@@ -15,7 +15,7 @@ The Collaborating Centre strives for excellence in research, consultancy and tea
 
 Within Curtin University, expertise from staff may involve the following disciplines:
 
-- Biomedical Sciences and Toxicology
+
 - Environmental and Occupational Health and Safety
 - Environmental and Occupational Medicine
 - Climate Change
@@ -28,6 +28,7 @@ Within Curtin University, expertise from staff may involve the following discipl
 - Nutrition, Food Science and Technology
 - Psychology
 - Public Health
+- Biomedical Sciences and Toxicology
 - Social Sciences including stakeholder engagement and communication
 
 ### <a name="head-collab"></a>Collaborator organisations
