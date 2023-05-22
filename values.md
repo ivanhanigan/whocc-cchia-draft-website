@@ -6,7 +6,7 @@ title: Values
 
 ### Our vision 
 
-The Centre seeks to to acknowledge climate change as a major human health risk and to empower scientific-oriented decision-making for sustainable transitions.
+The Centre seeks to address climate change as a major human health risk and to empower scientific-oriented decision-making for sustainable transitions.
 
 ### Our mission
 
