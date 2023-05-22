@@ -25,9 +25,9 @@ Centre staff are involved in teaching within the School of Public Health.  The f
 - Master of Philosophy (Public Health)
 - Doctor of Philosophy (Public Health)
 
-Education and training may involve training programs in Australia or distance learning.  The aim of these is to produce qualified and skilled professionals able to enhance the development and application of EHIA/HIA within their region.
+Education and training may involve training programs in Australia or distance learning.  The aim of these is to produce qualified and skilled professionals able to enhance the development and application of Climate Change and HIA within their region.
 
-Short courses and [fellowship programs](http://ehia.curtin.edu.au/about/visiting-fellows/) in specific areas of EHIA/HIA are also available.
+TODO check status = Short courses and [fellowship programs](http://ehia.curtin.edu.au/about/visiting-fellows/) in specific areas of Cli.ate Change and HIA are also available.
 
 ### Research students
 
@@ -38,7 +38,7 @@ The WHO CC welcomes Masters, Doctoral and Post-Doctoral level domestic and inter
 - Understanding the process of integrating climate change and HIA in the Asia-Pacific region
 - Exploring the institutional and governance challenges in operationalising HIA and climate change in various developing country contexts
 - Developing new HIA methodologies that are contextually grounded in local realities and local knowledge systems
-- Developing innovating tools/frameworks for monitoring and evaluating HIA and climate change assessments that can support national health planning efforts
+- Developing innovative tools/frameworks for monitoring and evaluating HIA and climate change assessments that can support national health planning efforts
 - Crafting novel dissemination products related to HIA and climate change that can inform health practitioners and policy makers
 
 Research at Curtin is nationally and internationally recognised and the WHO Collaborating Centre welcomes research proposals that can support its key Terms of Reference. As a research student at Curtin, you will work closely with external stakeholders to create solutions to global problems and write a thesis under the guidance of a supervisor
