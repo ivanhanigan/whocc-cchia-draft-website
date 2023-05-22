@@ -13,14 +13,14 @@ The Centre provides a focus for research and development, education and consulti
 
 The Centre aims to:
 
-- increase the availability of training and education packages on topics relevant to EHIA/HIA
+- increase the availability of training and education packages on topics relevant to Climate Change and HIA
 - Provide research and development and consultancy work; and
 - collaborate with organisations and institutions in the Western Pacific / Asia Pacific region.
 
 
-The Centre plans, conducts, and evaluates EHIA/HIA research, communicating results at regional and International forums.
+The Centre plans, conducts, and evaluates  Climate Change and HIA research, communicating results at regional and International forums.
 
-The Centre can provide support for the development of methods and approaches for research into aspects of EHIA/HIA at regional institutions.
+The Centre can provide support for the development of methods and approaches for research into aspects of Climate Change and HIA at regional institutions.
 
 ###  <a name="head-ccres"></a>Climate change and health
 
@@ -33,13 +33,13 @@ The Centre participates in climate change and health activities through:
 - Development and promotion of the use of an HIA framework in public health adaptation to climate change risks
 - Research to increase knowledge and understanding of the health impacts from climate change
 - Partnerships with institutions involved in responding to climate change
-- Membership in the National Climate Change Adaptation Research Facility and the Human Health Management Committee
+- Membership in the NHMRC Healthy Environments And Lives (HEAL) National Research Network
 - Development and implementation of training for vulnerability and adaptation assessments
-- Development and participation in research projects, consultancies and visiting WHO Fellowships relevant to climate change and health
+- Development and participation in research projects, consultancies and visiting WHO Fellowships relevant to climate change and health TODO check Fellowships status
 
 ### Recent Publications:
 
-For a list of recent Climate Change and Health publications by Centre staff please see: Climate Change and Health Publications.
+For a list of recent Climate Change and Health publications by Centre staff please see: [Climate Change and Health Publications](http://ehia.curtin.edu.au/about/publications/)
 
 ### Recent Projects:
 
