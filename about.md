@@ -4,8 +4,7 @@ layout: default
 title: About this site
 ---
 
-- [our history](#history)
-- [our Terms of Reference](#tor)
+
 
 #  <a name="history"></a>Our history
 

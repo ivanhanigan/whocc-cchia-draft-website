@@ -8,7 +8,7 @@ title: Resources
 
 Following are a selection of HIA related publications and conference proceedings. 
 
-##   HIA Related Centre Publications 
+##   HIA Related Publications 
 
 -    Evaluation guide for Health Impact Assessments  
 -    Climate Change, Vulnerability and Health: A Guide to Assessing and Addressing the Health Impacts 2015  
