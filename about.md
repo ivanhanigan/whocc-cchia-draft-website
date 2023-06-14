@@ -54,3 +54,27 @@ The Collaborating Centre seeks to address climate change as a major human health
 ##    Our direction 
 
 Our mission is to build capacity at the country and regional levels to assess the future and monitor the current impacts of climate change on human health by integrating research excellence, learning opportunities and policy partnerships. 
+
+#   <a name="our-team"></a>Our team 
+
+##   Staff affiliated with the Centre 
+
+- Dr Ivan Hanigan (Director)
+- Dr Aditya Vyas (Deputy Director)
+- Ms Jessie Parish 
+- Mr Andrew Corbett
+- Emeritus Prof Jeffery Spickett
+- Dr Helen Brown 
+- Dr Toni Hannelly
+- A/Prof Krassi Rumchev
+- Prof Ben Mullins 
+- A/Prof Genandrialine Peralta
+- Prof Gavin Pereira 
+- Prof Richard Norman
+- Dr Lucas Hertzog
+
+##    Who is involved 
+
+The Centre aims to carry out its activities by collaborating with a range of other institutions. The collaboration will depend on the range of skills, knowledge and experience needed to carry out the project. 
+
+The Centre is closely involved with Curtin University, School of Public Health. (https://www.curtin.edu.au/about/learning-teaching/health-sciences/ ) 
